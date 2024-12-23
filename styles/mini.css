@@ -1,0 +1,97 @@
+* {
+    margin: 0 auto;
+    padding: 0 auto;
+    box-sizing: border-box;
+}
+
+#heading {
+    background-color: #F7F4FF;  
+}
+
+#firstLogo {
+    margin-top: 25px;
+    margin-left: 713px;
+    margin-bottom: 25px;
+    max-width: 146.683px;
+    height: 21.023px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#knowing {
+    font-size: 18px;
+    font-weight: 400;
+    color: #332233;
+    margin-top: 25px;
+    margin-right: 20px;
+    margin-bottom: 25px;
+    margin-left: 277px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#offering {
+    color: #323232;
+    font-size: 18px;
+    font-weight: 400;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    margin-right: 20px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#contacting {
+    color: #8E26C0;
+    font-size: 18px;
+    font-weight: 600;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    margin-right: 20px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#helping {
+    color: #323232;
+    font-size: 18px;
+    font-weight: 400;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    margin-right: 277.67px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#connecting {
+    color: #8E26C0;
+    border: 1px solid #8E26C0;
+    border-radius: 8px;
+    margin-top: 25px;
+    margin-right: 24px;
+    margin-bottom: 25px;
+    display: inline-block;
+    vertical-align: middle;
+    font-size: 14px;
+    font-weight: 400;
+    padding: 8px 16px;
+}
+
+#thePhoto {
+    max-width: 610px;
+    height: 458px;
+    margin-top: 142px;
+    margin-left: 350px;
+    display: inline-block;
+    margin-right: 45px;
+}
+
+#firstTitle {
+    font-size: 40px;
+    font-weight: 700;
+    color: #000000;
+    display: inline-block;
+    margin-top: 222px;
+    margin-bottom: 16px;
+   
+}
