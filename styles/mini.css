@@ -357,9 +357,10 @@ p {
     
 }
 
-#navUl {
-    display: inline-block;
-    vertical-align: middle;
+#firstUl {
+   display: inline-block;
+   width: 176px;
+   margin-right: 32px;
 }
 
 #productt {
@@ -372,4 +373,308 @@ p {
     color: #E9D7FE;
     margin-bottom: 12px;
     list-style-type: none;
+}
+
+#featuring {
+    color: #E9D7FE;
+    margin-top: 12px;
+    list-style-type: none;
+}
+
+#newDiv {
+    margin-top: 12px;
+    margin-bottom: 12px;
+    vertical-align: middle;
+    display: inline-block;
+}
+
+#solution {
+    color: #E9D7FE;
+    margin-bottom: 12px;
+    list-style-type: none;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#newImage {
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 8px;
+}
+
+#tutorial {
+    color: #E9D7FE;
+    margin-bottom: 12px;
+    list-style-type: none;
+}
+
+#price {
+    color: #E9D7FE;
+    margin-bottom: 12px;
+    list-style-type: none;
+}
+
+#release {
+    color: #E9D7FE;
+    list-style-type: none;
+}
+
+#secondUl {
+   display: inline-block;
+   width: 176px;
+   margin-right: 32px;
+}
+
+#companyy {
+    color: #D6BBFB;
+    margin-bottom: 16px;
+    list-style-type: none;
+}
+
+#aboutUs {
+    color: #E9D7FE;
+    margin-bottom: 12px;
+    list-style-type: none;
+}
+
+#careering {
+    color: #E9D7FE;
+    margin-bottom: 12px;
+    list-style-type: none;
+}
+
+#pressing {
+    color: #E9D7FE;
+    margin-bottom: 12px;
+    list-style-type: none;
+}
+
+#newss {
+    color: #E9D7FE;
+    margin-bottom: 12px;
+    list-style-type: none;
+}
+
+#mediaKit {
+    color: #E9D7FE;
+    margin-bottom: 12px;
+    list-style-type: none;
+}
+
+#contacttingg {
+    color: #E9D7FE;
+    list-style-type: none;
+}
+
+#thirdUl {
+    display: inline-block;
+    width: 176px;
+    margin-right: 32px;
+}
+
+#recources {
+    color: #D6BBFB;
+    margin-bottom: 16px;
+    list-style-type: none;
+}
+
+#blog {
+    color: #E9D7FE;
+    margin-bottom: 12px;
+    list-style-type: none;
+}
+
+#newsletter {
+    color: #E9D7FE;
+    margin-bottom: 12px;
+    list-style-type: none;
+}
+
+#event {
+    color: #E9D7FE;
+    margin-bottom: 12px;
+    list-style-type: none;
+}
+
+#helpCentre {
+    color: #E9D7FE;
+    margin-bottom: 12px;
+    list-style-type: none;
+}
+
+#tutorialing {
+    color: #E9D7FE;
+    margin-bottom: 12px;
+    list-style-type: none;
+}
+
+#supporting {
+    color: #E9D7FE;
+    list-style-type: none;
+}
+
+#fourthUl {
+    display: inline-block;
+    width: 176px;
+    margin-right: 32px;
+}
+
+#useCases {
+    color: #D6BBFB;
+    margin-bottom: 16px;
+    list-style-type: none;
+}
+
+#startups {
+    color: #E9D7FE;
+    margin-bottom: 12px;
+    list-style-type: none;
+}
+
+#enterprise {
+    color: #E9D7FE;
+    margin-bottom: 12px;
+    list-style-type: none;
+}
+
+#government {
+    color: #E9D7FE;
+    margin-bottom: 12px;
+    list-style-type: none;
+}
+
+#sassCentre {
+    color: #E9D7FE;
+    margin-bottom: 12px;
+    list-style-type: none;
+}
+
+#marketPlaces {
+    color: #E9D7FE;
+    margin-bottom: 12px;
+    list-style-type: none;
+}
+
+#ecommerce {
+    color: #E9D7FE;
+    list-style-type: none;
+}
+
+#fifthUl {
+    display: inline-block;
+    width: 176px;
+    margin-right: 32px;
+}
+
+#social {
+    color: #D6BBFB;
+    margin-bottom: 16px;
+    list-style-type: none;
+}
+
+#twitter {
+    color: #E9D7FE;
+    margin-bottom: 12px;
+    list-style-type: none;
+}
+
+#linkdin {
+    color: #E9D7FE;
+    margin-bottom: 12px;
+    list-style-type: none;
+}
+
+#facebook {
+    color: #E9D7FE;
+    margin-bottom: 12px;
+    list-style-type: none;
+}
+
+#gitHub {
+    color: #E9D7FE;
+    margin-bottom: 12px;
+    list-style-type: none;
+}
+
+#angelListt {
+    color: #E9D7FE;
+    margin-bottom: 12px;
+    list-style-type: none;
+}
+
+#dribbble {
+    color: #E9D7FE;
+    list-style-type: none;
+}
+
+#sixthUl {
+    display: inline-block;
+    width: 176px;
+}
+
+#legal {
+    color: #D6BBFB;
+    margin-bottom: 16px;
+    list-style-type: none;
+}
+
+#term {
+    color: #E9D7FE;
+    margin-bottom: 12px;
+    list-style-type: none;
+}
+
+#privacyy {
+    color: #E9D7FE;
+    margin-bottom: 12px;
+    list-style-type: none;
+}
+
+#cookiess {
+    color: #E9D7FE;
+    margin-bottom: 12px;
+    list-style-type: none;
+}
+
+#licenses {
+    color: #E9D7FE;
+    margin-bottom: 12px;
+    list-style-type: none;
+}
+
+#settings {
+    color: #E9D7FE;
+    margin-bottom: 12px;
+    list-style-type: none;
+}
+
+#lastContact {
+    color: #E9D7FE;
+    list-style-type: none;
+}
+
+#secondList {
+    max-width: 1280px;
+    border-top: 1px solid #7F56D9;
+    margin: 0 auto;
+    padding-top: 36px;
+}
+
+
+
+#palantir {
+    
+    margin-right: 10px;
+    vertical-align: middle;
+    
+}
+
+#untitle {
+    vertical-align: middle;
+}
+
+#rightReserved {
+
+    text-align: right;
+    vertical-align: middle;
 }
